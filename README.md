@@ -1,6 +1,14 @@
 ## Version Logs
 **Notice:Be sure to verify MD5 before using the download apk method to install in order to ensure asset security**
 
+####  Android  V2.1.9 ｜ MD5: dfd06c5a3868caa0570f846865f54b91
+Update content：
+- Fixed：Fixed some DApp parameter transfer bugs
+
+Downlaod:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download apk](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.1.9.apk)
+
 ####  Android  V2.1.8 ｜ MD5: 82a5dc16baf43d847c4109cdc1c6b8b6
 Update content：
 - Optimize：Improved stability to reduce unnecessary crashes
