@@ -1,6 +1,15 @@
 ## Version Logs
 **Notice:Be sure to verify MD5 before using the download apk method to install in order to ensure asset security**
 
+####  Android  V2.2.2 ｜ MD5: c1663a75f9b1beec419b6ce8547ef559
+Update content：
+- Add: Add NFT assets management features
+- Fixed: Fix some bugs collected from community
+
+Downlaod:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download apk](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.2.2.apk)
+
 ####  Android  V2.1.9 ｜ MD5: dfd06c5a3868caa0570f846865f54b91
 Update content：
 - Fixed：Fixed some DApp parameter transfer bugs
