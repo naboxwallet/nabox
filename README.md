@@ -7,7 +7,7 @@ Update content：
 
 Downlaod:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download apk](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.2.4.apk)
+- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.4.apk)
 
 ####  Android  V2.2.2 ｜ MD5: c1663a75f9b1beec419b6ce8547ef559
 Update content：
