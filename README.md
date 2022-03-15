@@ -1,3 +1,12 @@
+####  Android  V2.2.5 ｜ MD5: 1a0fd070c6c6dacf1abbd74cfeffcfc0
+Update content：
+- Fix：Fix some DApp loading repeat bugs
+- Fix：Fix some bugs collected from community
+
+Downlaod:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.5.apk)
+
 ## Version Logs
 **Notice:Be sure to verify MD5 before using the download apk method to install in order to ensure asset security**
 
