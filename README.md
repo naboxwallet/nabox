@@ -1,3 +1,11 @@
+####  Android  V2.2.7 ｜ MD5: 9c36d99df7f1435c99efe591f53b6967
+Update content：
+- Fix：Fix some bugs collected from community
+
+Downlaod:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.7.apk)
+- 
 ####  Android  V2.2.6 ｜ MD5: 1f4fe5649c6bcf6cfda3b7e97fd12a64
 Update content：
 - Fix：Fix some bugs collected from community
