@@ -2,24 +2,24 @@
 Update content：
 - Fix：Fix some bugs collected from community
 
-Downlaod:
+Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.7.apk)
-- 
+
 ####  Android  V2.2.6 ｜ MD5: 1f4fe5649c6bcf6cfda3b7e97fd12a64
 Update content：
 - Fix：Fix some bugs collected from community
 
-Downlaod:
+Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.6.apk)
-- 
+
 ####  Android  V2.2.5 ｜ MD5: 1a0fd070c6c6dacf1abbd74cfeffcfc0
 Update content：
 - Fix：Fix some DApp loading repeat bugs
 - Fix：Fix some bugs collected from community
 
-Downlaod:
+Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.5.apk)
 
@@ -30,7 +30,7 @@ Downlaod:
 Update content：
 - Fixed: Fix some bugs collected from community
 
-Downlaod:
+Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.4.apk)
 
@@ -39,7 +39,7 @@ Update content：
 - Add: Add NFT assets management features
 - Fixed: Fix some bugs collected from community
 
-Downlaod:
+Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download apk](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.2.2.apk)
 
@@ -47,7 +47,7 @@ Downlaod:
 Update content：
 - Fixed：Fixed some DApp parameter transfer bugs
 
-Downlaod:
+Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download apk](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.1.9.apk)
 
@@ -55,7 +55,7 @@ Downlaod:
 Update content：
 - Optimize：Improved stability to reduce unnecessary crashes
 
-Downlaod:
+Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download apk](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.1.8.apk)
 
@@ -63,6 +63,6 @@ Downlaod:
 Update content：
 - Optimize：Improved stability to reduce unnecessary crashes
 
-Downlaod:
+Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download apk](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.1.7.apk)
