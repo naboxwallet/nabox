@@ -1,3 +1,12 @@
+####  Android  V2.2.8 ｜ MD5: 9734c056ee544eeb39e2ac9853e8f36f
+Update content：
+Add:Add the function of hiding networks
+Fix:Fix some bugs collected from community 
+
+Download:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.8.apk)
+
 ####  Android  V2.2.7 ｜ MD5: 9c36d99df7f1435c99efe591f53b6967
 Update content：
 - Fix：Fix some bugs collected from community
