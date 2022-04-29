@@ -1,3 +1,13 @@
+####  Android  V2.3.0 ｜ MD5: 8509a0574bd4ac828e8615579852c54c
+Update content：
+Optimize：Optimize source chain tags
+Fix：Fix the problem of dual process
+Fix：Fix some bugs collected from the community
+
+Download:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.0.apk)
+
 ####  Android  V2.2.8 ｜ MD5: 9734c056ee544eeb39e2ac9853e8f36f
 Update content：
 Add:Add the function of hiding networks
