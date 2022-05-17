@@ -1,3 +1,11 @@
+####  Android  V2.3.6 ｜ MD5: bced0e78dc9dbbb60188601f261274ec
+Update content：
+Optimized：Optimized the entry of the home page and asset details page
+
+Download:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.6.apk)
+
 ####  Android  V2.3.0 ｜ MD5: 8509a0574bd4ac828e8615579852c54c
 Update content：
 Optimize：Optimize source chain tags
