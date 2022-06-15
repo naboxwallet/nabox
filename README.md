@@ -1,3 +1,12 @@
+####  Android  V2.3.8 ｜ MD5: d1f7d4a176802f5389ecf4ef0dd5fedf
+Update content：
+Add：Integrate Tron network and support Tron DApp
+Fix：Fix bugs collected from community
+
+Download:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.8.apk)
+
 ####  Android  V2.3.6 ｜ MD5: bced0e78dc9dbbb60188601f261274ec
 Update content：
 Optimized：Optimized the entry of the home page and asset details page
