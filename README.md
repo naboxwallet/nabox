@@ -5,7 +5,9 @@ Fix：Fix bugs collected from community
 
 Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.8.apk)
+- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.8.apk)
+- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.3.6 ｜ MD5: bced0e78dc9dbbb60188601f261274ec
 Update content：
