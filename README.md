@@ -1,3 +1,18 @@
+####  Android  V2.3.9 ｜ MD5: 8f742a9d24116f76692a7ee51e68ee67
+Update content：
+Add: Support an new DApp funtion of NULS Network
+Add: Added a face/fingerprint payment prompt in the password input box
+
+####  iOS  V2.1.0（49）
+Update content：
+Add: Support an new DApp funtion of NULS Network
+Add: Added a face/fingerprint payment prompt in the password input box
+
+Download:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.9.apk)
+- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 ####  Android  V2.3.8 ｜ MD5: d1f7d4a176802f5389ecf4ef0dd5fedf
 Update content：
 Add：Integrate Tron network and support Tron DApp
