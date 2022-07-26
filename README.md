@@ -1,3 +1,17 @@
+####  Android  V2.4.3 ｜ MD5: e02a9f974e1002dd1b17d70404df4c89
+Update content：
+Add：Support ETC and Astar Network
+
+####  iOS  V2.1.0（57）
+Update content：
+Add：Support ETC and Astar Network
+
+Download:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.4.3.apk)
+- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
 ####  Android  V2.3.9 ｜ MD5: 8f742a9d24116f76692a7ee51e68ee67
 Update content：
 Add: Support an new DApp funtion of NULS Network
