@@ -1,3 +1,17 @@
+####  Android  V2.5.0 ｜ MD5: 989c154de8cffc019c100d14af3e5396
+Update content：
+Fix：Fix some bugs collected from community
+
+####  iOS  V2.1.0（63）
+Update content：
+Fix：Fix some bugs collected from community
+
+Download:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.0.apk)
+- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
 ####  Android  V2.4.9 ｜ MD5: 0891b54587e07da380130e3938f41ac5
 Update content：
 Add：Support NFT of NULS 
