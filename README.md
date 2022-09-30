@@ -1,3 +1,19 @@
+####  Android  V2.5.5 ｜ MD5: 00a85291acdff1aabf137d2cd1958f10
+Update content：
+Fix:Fix Tron Network transaction failed problem
+Optimize:Optimize the digital display problem of the market
+
+####  iOS  V2.1.0（71）
+Update content：
+Fix:Fix Tron Network transaction failed problem
+Optimize:Optimize the digital display problem of the market
+
+Download:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.5.apk)
+- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
 ####  Android  V2.5.4 ｜ MD5: 2361dd2a658e1855250e14ff4e98cb74
 Update content：
 Add：Support ENS and DAS domain system
