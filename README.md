@@ -1,3 +1,17 @@
+####  Android  V2.5.7 ｜ MD5: 1b2640a6f116f3ab11b2e57993d2352a
+Update content：
+Fix：Fix some problems of NFT transfer
+
+####  iOS  V2.1.0（73）
+Update content：
+Fix：Fix some DApp connections
+
+Download:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.7.apk)
+- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
 ####  Android  V2.5.5 ｜ MD5: 00a85291acdff1aabf137d2cd1958f10
 Update content：
 Fix:Fix Tron Network transaction failed problem
