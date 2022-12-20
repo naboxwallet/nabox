@@ -1,3 +1,21 @@
+####  Android  V2.7.0 
+
+Update content：
+
+- Add：Add notification center function
+- Fix：Fix some bugs collected from community
+
+####  iOS  V2.1.0（76） 
+
+- Add：Add notification center function
+- Fix：Fix some bugs collected from community
+
+Download:
+- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.6.9.apk)
+- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
 ####  Android  V2.6.9 ｜ MD5: a9db800336565c69bdec45e6602d8a83
 
 Update content：
