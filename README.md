@@ -12,7 +12,7 @@ Update content：
 
 Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.6.9.apk)
+- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.0.apk)
 - [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
 - [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
