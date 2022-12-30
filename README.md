@@ -1,3 +1,24 @@
+####  Android  V2.7.1 ｜ MD5：a70f833719ea6d7abbf1fcd6cf6f905f
+
+Update content：
+
+- Add：Support Calendar function
+- Fix：Fix some bugs collected from community
+
+####  iOS  V2.1.0（80） 
+
+Update content：
+
+- Add：Support Calendar function
+- Fix：Fix some bugs collected from community
+
+Download:
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.1.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
+- [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
+- [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
 ####  Android  V2.7.0 
 
 Update content：
