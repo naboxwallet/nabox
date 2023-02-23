@@ -1,3 +1,24 @@
+####  Android  V2.7.6 ｜ 03df1bfe027dcd26cc8fa3c296196474
+
+Update content：
+
+- Optimize：Optimize Transaction Record
+- Fix：Fix some bugs collected from community
+
+####  iOS  V1.3.2
+
+Update content：
+
+- Optimize：Optimize Transaction Record
+- Fix：Fix some bugs collected from community
+
+Download:
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.6.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
+- [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
+- [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
 ####  Android  V2.7.4 ｜ MD5：eec8097751c3426540f5e01e10bc6532
 
 Update content：
