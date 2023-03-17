@@ -1,3 +1,23 @@
+####  Android  V2.7.8 ｜ faea8d2ca20a048cbef76263182873ed
+
+Update content：
+
+- Fix：Fix some bugs collected from community
+
+####  iOS  V1.3.3
+
+Update content：
+
+- Fix：Fix some bugs collected from community
+
+
+Download:
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.8.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
+- [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
+- [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
 ####  Android  V2.7.6 ｜ 03df1bfe027dcd26cc8fa3c296196474
 
 Update content：
