@@ -1,3 +1,25 @@
+####  Android  V2.7.9 ｜ 004513b78f5b17e870b29bf71ff981ac
+
+Update content：
+
+- Optimize：Optimize import/create account function
+- Add:Support LTC and Doge Network
+
+####  iOS  V1.3.5
+
+Update content：
+
+- Optimize：Optimize import/create account function
+- Add:Support LTC and Doge Network
+
+
+Download:
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.9.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
+- [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
+- [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
+
 ####  Android  V2.7.8 ｜ faea8d2ca20a048cbef76263182873ed
 
 Update content：
