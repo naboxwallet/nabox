@@ -1,3 +1,25 @@
+####  Android  V2.8.0 ｜ 4871d5f2499a7ec5a00d07863132e876
+
+Update content：
+
+- Add:Support Network of Cosmos ecosystem
+- Fix:Fix bugs reported by the community
+
+####  iOS  V1.3.6
+
+Update content：
+
+- Add:Support Network of Cosmos ecosystem
+- Fix:Fix bugs reported by the community
+
+
+Download:
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.8.0.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
+- [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
+- [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
 ####  Android  V2.7.9 ｜ 004513b78f5b17e870b29bf71ff981ac
 
 Update content：
