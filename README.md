@@ -5,13 +5,6 @@ Update content：
 - Add:Support Network of Cosmos ecosystem
 - Fix:Fix bugs reported by the community
 
-####  iOS  V1.3.6
-
-Update content：
-
-- Add:Support Network of Cosmos ecosystem
-- Fix:Fix bugs reported by the community
-
 
 Download:
 - [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
