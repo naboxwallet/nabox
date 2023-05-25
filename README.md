@@ -1,3 +1,26 @@
+####  Android  V2.8.4 ｜ cf2dcb78f3b6315c0df18bdd752d0ef5
+
+Update content：
+
+- Add: Support Network of Aptos
+- Add: Multilingual exchange rate
+- Fix: Message Center multilingual overflow interface
+
+####  iOS  V1.3.7
+
+Update content：
+
+- Add: Support Network of Aptos
+- Add: Multilingual exchange rate
+- Fix: Fix some bugs collected from community
+
+Download:
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.8.4.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
+- [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
+- [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
 ####  Android  V2.8.3 ｜ c374d80f3844c14a0a5d2d43b32e89a1
 
 Update content：
