@@ -1,3 +1,10 @@
+####  Android  V2.8.8 ｜ 61c34a3dd60beb8cf5148bb739b92317
+Update content：
+
+- Fix:  Fixed an issue where incorrect addresses were generated for Aptos chain.
+- Fix:  Fixed the formatting issue with scientific notation number formatting.
+- Optimize: Optimized the display of language terms in some app interfaces.
+
 ####  Android  V2.8.4 ｜ cf2dcb78f3b6315c0df18bdd752d0ef5
 
 Update content：
