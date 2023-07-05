@@ -1,3 +1,28 @@
+####  Android  V3.0.0 ｜ 61c34a3dd60beb8cf5148bb739b92317
+
+Update content：
+- Add: Support edit contacts.
+- Add: Add tags to contacts.
+- Fix: Fix some bugs and improve application fluency.
+- Optimize: UI comprehensive upgrade and optimization.
+
+
+####  iOS  V3.0.0
+
+Update content：
+
+- Add: Support edit contacts.
+- Add: Add tags to contacts.
+- Fix: Fix some bugs and improve application fluency.
+- Optimize: UI comprehensive upgrade and optimization.
+
+Download:
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.0.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
+- [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
+- [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
 ####  Android  V2.8.8 ｜ 61c34a3dd60beb8cf5148bb739b92317
 
 Update content：
