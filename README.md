@@ -1,3 +1,29 @@
+####  Android  V3.0.2 ｜ f7ef3a55f4a38778b61454165a79c805
+
+Update content：
+
+- Add: categories for network management
+- Optimize：Extend some functions of WallectConnect
+- Optimize：Optimize the display effect of NFT list
+- Fix:Fix some bugs collected from community
+
+
+####  iOS  V3.0.3
+
+Update content：
+
+- Optimize：Optimize network framework
+- Fix:Fix some bugs collected from community
+
+Download:
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.2.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
+- [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
+- [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
+
+
 ####  Android  V3.0.1 ｜ a0bd131c71492ec24fb3999174c7ad2c
 
 Update content：
