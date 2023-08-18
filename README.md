@@ -2,9 +2,7 @@
 
 Update content：
 
-- Add: categories for network management
-- Optimize：Extend some functions of WallectConnect
-- Optimize：Optimize the display effect of NFT list
+- Optimize：Optimize network framework
 - Fix:Fix some bugs collected from community
 
 
@@ -12,7 +10,9 @@ Update content：
 
 Update content：
 
-- Optimize：Optimize network framework
+- Add: categories for network management
+- Optimize：Extend some functions of WallectConnect
+- Optimize：Optimize the display effect of NFT list
 - Fix:Fix some bugs collected from community
 
 Download:
