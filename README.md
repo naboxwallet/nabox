@@ -1,3 +1,30 @@
+####  Android  V3.0.4 ｜ c76a2d7d12e8ed0afc8cef0a6bda5607
+
+Update content：
+
+- Add:Add avatars to addresses of different accounts
+- Add:Add price change to asset list
+- Optimize:Optimize the display of some pages
+- Optimize：Extend some functions of WallectConnect
+- Fix:Fix some bugs collected from community
+
+
+####  iOS  V3.0.6
+
+Update content：
+
+- Add:Add avatars to addresses of different accounts
+- Add:Add price change to asset list
+- Optimize:Optimize the display of some pages
+- Fix:Fix some bugs collected from community
+
+Download:
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.4.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
+- [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
+- [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
 ####  Android  V3.0.3 ｜ 38ea6efd9935c5aca708eb04a1d7454e
 
 Update content：
