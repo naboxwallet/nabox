@@ -1,34 +1,3 @@
-####  Android  V3.0.8 ｜ fe9f988a458ce0fe26a8c9c936b00420
-
-Update content：
-
-- Fix: Fix some bugs collected from community；
-
-
-####  iOS  V3.0.9
-
-Update content：
-
-- Fix: Fix some bugs collected from community；
-
-Download:
-- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.8.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
-- [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
-- [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
-
-####  Android  V3.0.7 ｜ 77cf7425ded91b9400d9f4551d8d1607
-
-Update content：
-
-- Add: Support NRC 1155 Token
-- Add: Support the Native SegWit
-- Add: Supports synchronization of Nabox ID accounts and avatars
-- Optimize: Optimize calendar data
-- Fix: Fix some bugs collected from community
-
-
 ####  iOS  V3.0.8
 
 Update content：
