@@ -4,6 +4,23 @@ Update content：
  
 - Fix: Fix some bugs collected from community；
 
+ ####  iOS  V3.0.9
+
+Update content：
+
+- Fix: Fix some bugs collected from community；
+
+Download:
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.9.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
+- [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
+- [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
+####  Android  V3.0.7 ｜ b9bd40d647b875c3c87ab888f492b32a
+
+Update content：
+
 ####  iOS  V3.0.8
 
 Update content：
@@ -16,7 +33,7 @@ Update content：
 
 Download:
 - [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.9.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.7.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 - [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
