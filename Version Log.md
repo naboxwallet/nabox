@@ -1,23 +1,35 @@
+______________________________________________________________________________________________________________________
+## Latest Releases
+______________________________________________________________________________________________________________________
+
 ####  Android  V3.0.9 
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: b9bd40d647b875c3c87ab888f492b32a ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.9.apk)  
-In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
+In order to ensure assets security, users must perform MD5 verification when downloading and installing APK packages
 
 Update content：
-- Fix: Fix some bugs collected from community；
+- Fix: Fix some bugs collected from community
 
 ####  iOS  V3.0.9
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
  
 Update content：
-- Fix: Fix some bugs collected from community；
+- Fix: Fix some bugs collected from community
 
 ####  Chrome Extension V1.1.61
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 Update content：
-- Fix: Fix some bugs collected from community；
+- Add: Enhanced account list display and functionality
+- Add: Enjoy a personalized touch with account avatars
+- Add: Embrace the future with support for NRC 1155 tokens
+- Fix: Fix some bugs collected from community
+
+______________________________________________________________________________________________________________________
+## Historic Version
+______________________________________________________________________________________________________________________
+
 
 ####  iOS  V3.0.8
 
