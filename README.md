@@ -7,13 +7,13 @@ Update content：
 - Fix: Fix some bugs collected from community；
 
 ####  iOS  V3.0.9
-Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
+Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
  
 Update content：
 - Fix: Fix some bugs collected from community；
 
-####  Google Extension V1.1.61
+####  Chrome Extension V1.1.61
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 Update content：
