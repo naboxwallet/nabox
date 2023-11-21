@@ -14,7 +14,7 @@ Update content：
 - Fix: Fix some bugs collected from community；
 
 ####  Google Extension V1.1.61
-Download: [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 Update content：
 - Fix: Fix some bugs collected from community；
