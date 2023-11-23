@@ -23,7 +23,7 @@ Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wal
 Update content：
 - Add: Enhanced account list display and functionality
 - Add: Enjoy a personalized touch with account avatars
-- Add: Embrace the future with support for NRC 1155 tokens
+- Add: Embrace the future with support for NRC1155 tokens
 - Fix: Fix some bugs collected from community
 
 ______________________________________________________________________________________________________________________
@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 Update content：
 
-- Add: Support NRC 1155 Token
+- Add: Support NRC1155 Tokens
 - Add: Support the Native SegWit
 - Add: Supports synchronization of Nabox ID accounts and avatars
 - Optimize: Optimize calendar data
@@ -52,10 +52,10 @@ Download:
 
 Update content：
 
-- Optimize：Optimize price display settings；
+- Optimize：Optimize price display settings
 - Optimize：Optimize browser UI；
-- Optimize：Optimize signature information display；
-- Add:Preferences add clear cache；
+- Optimize：Optimize signature information display
+- Add:Preferences add clear cache
 - Fix:Fix some bugs collected from
 
 
@@ -63,10 +63,10 @@ Update content：
 
 Update content：
 
-- Optimize：Optimize price display settings；
-- Optimize：Optimize browser UI；
-- Optimize：Optimize signature information display；
-- Add:Preferences add clear cache；
+- Optimize：Optimize price display settings
+- Optimize：Optimize browser UI
+- Optimize：Optimize signature information display
+- Add:Preferences add clear cache
 - Fix:Fix some bugs collected from
 
 Download:
@@ -160,18 +160,18 @@ Download:
 
 Update content：
 
-- Add: Support WallectConnect 2.0.
-- Add: Add tools list on home page.
-- Fix: Fix some bugs collected from.
+- Add: Support WallectConnect 2.0
+- Add: Add tools list on home page
+- Fix: Fix some bugs collected from
 
 
 ####  iOS  V3.0.2
 
 Update content：
 
-- Add: Support WallectConnect 2.0.
-- Add: Add tools list on home page.
-- Fix: Fix some bugs collected from.
+- Add: Support WallectConnect 2.0
+- Add: Add tools list on home page
+- Fix: Fix some bugs collected from
 
 Download:
 - [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
@@ -183,20 +183,20 @@ Download:
 ####  Android  V3.0.0 ｜ 61c34a3dd60beb8cf5148bb739b92317
 
 Update content：
-- Add: Support edit contacts.
-- Add: Add tags to contacts.
-- Fix: Fix some bugs and improve application fluency.
-- Optimize: UI comprehensive upgrade and optimization.
+- Add: Support edit contacts
+- Add: Add tags to contacts
+- Fix: Fix some bugs and improve application fluency
+- Optimize: UI comprehensive upgrade and optimization
 
 
 ####  iOS  V3.0.0
 
 Update content：
 
-- Add: Support edit contacts.
-- Add: Add tags to contacts.
-- Fix: Fix some bugs and improve application fluency.
-- Optimize: UI comprehensive upgrade and optimization.
+- Add: Support edit contacts
+- Add: Add tags to contacts
+- Fix: Fix some bugs and improve application fluency
+- Optimize: UI comprehensive upgrade and optimization
 
 Download:
 - [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
@@ -209,9 +209,9 @@ Download:
 
 Update content：
 
-- Fix:  Fixed an issue where incorrect addresses were generated for Aptos chain.
-- Fix:  Fixed the formatting issue with scientific notation number formatting.
-- Optimize: Optimized the display of language terms in some app interfaces.
+- Fix:  Fixed an issue where incorrect addresses were generated for Aptos chain
+- Fix:  Fixed the formatting issue with scientific notation number formatting
+- Optimize: Optimized the display of language terms in some app interfaces
 
 ####  iOS  V1.3.8
 
