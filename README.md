@@ -53,7 +53,7 @@ Download:
 Update content：
 
 - Optimize：Optimize price display settings
-- Optimize：Optimize browser UI；
+- Optimize：Optimize browser UI
 - Optimize：Optimize signature information display
 - Add:Preferences add clear cache
 - Fix:Fix some bugs collected from
