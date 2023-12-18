@@ -22,6 +22,11 @@ Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wal
 - Fix: Frequently called signature stability
 - Fix: Optimize startup loading
 
+
+______________________________________________________________________________________________________________________
+## Historic Version
+______________________________________________________________________________________________________________________
+
 ####  Android  V3.0.9 
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: b9bd40d647b875c3c87ab888f492b32a ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.9.apk) 
@@ -45,11 +50,6 @@ Update content：
 - Add: Enjoy a personalized touch with account avatars
 - Add: Embrace the future with support for NRC1155 tokens
 - Fix: Fix some bugs collected from community
-
-______________________________________________________________________________________________________________________
-## Historic Version
-______________________________________________________________________________________________________________________
-
 
 ####  iOS  V3.0.8
 
