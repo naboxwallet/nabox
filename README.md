@@ -4,8 +4,8 @@ ________________________________________________________________________________
 #### Android（3.1.0）
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: b9bd40d647b875c3c87ab888f492b32a ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.0.apk) 
-Add: Support Metaforce domain name service
-Fix: Fix some bugs collected from community
+- Add: Support Metaforce domain name service
+- Fix: Fix some bugs collected from community
 
 #### iOS（3.1.0）
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
