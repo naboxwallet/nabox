@@ -1,20 +1,26 @@
 ______________________________________________________________________________________________________________________
 ## Latest Releases
 ______________________________________________________________________________________________________________________
-#### Android（3.1.0）
+####  Android  V3.1.0
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: b9bd40d647b875c3c87ab888f492b32a ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.0.apk) 
+
+Update content：
 - Add: Support Metaforce domain name service
 - Fix: Fix some bugs collected from community
 
-#### iOS（3.1.0）
+####  iOS  V3.1.0
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+
+Update content：
 - Add: Support Metaforce domain name service
 - Fix: Fix some bugs collected from community
 
-#### Extension 1.2.0
+####  Extension  V1.2.0
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
+Update content：
 - Add: Added LTC and Doge network support
 - Add: Support Nabox ID NFT avatar display
 - Add: Click the avatar to enter the account settings page for interaction
