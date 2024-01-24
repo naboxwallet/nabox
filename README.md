@@ -503,10 +503,10 @@ Update content：
 - Fix：Fix some bugs collected from community
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.0.apk)
-- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.0.apk)
+- [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.6.9 ｜ MD5: a9db800336565c69bdec45e6602d8a83
 
@@ -523,10 +523,10 @@ Update content：
 - Fix：Fix some bugs collected from community
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.6.9.apk)
-- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.6.9.apk)
+- [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.6.8 ｜ MD5: 08927dfdff8b478006d874927dbfc6a9
 
@@ -534,10 +534,10 @@ Update content：
 - Fix：Fix some bugs collected from community
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.6.8.apk)
-- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.6.8.apk)
+- [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.6.2 ｜ MD5: 0f0933eed9fbabe0d366578f718704d0
 
@@ -554,10 +554,10 @@ Update content：
 - Fix：Fix some bugs collected from
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.6.2.apk)
-- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.6.2.apk)
+- [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 
 ####  Android  V2.5.5 ｜ MD5: 00a85291acdff1aabf137d2cd1958f10
@@ -571,10 +571,10 @@ Fix:Fix Tron Network transaction failed problem
 Optimize:Optimize the digital display problem of the market
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.5.apk)
-- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.5.apk)
+- [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.5.4 ｜ MD5: 2361dd2a658e1855250e14ff4e98cb74
 Update content：
@@ -587,10 +587,10 @@ Add：Support ENS and DAS domain system
 Add：Support XDC chain
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.4.apk)
-- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.4.apk)
+- [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.5.3 ｜ MD5: eed8ad42228102f9025219d40d9be0bc
 Update content：
@@ -603,10 +603,10 @@ Add:Support custom node function of NULS，Nerve and Tron
 Add:Add sort and news top function of market
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.3.apk)
-- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.3.apk)
+- [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.5.0 ｜ MD5: 989c154de8cffc019c100d14af3e5396
 Update content：
@@ -617,10 +617,10 @@ Update content：
 Fix：Fix some bugs collected from community
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.0.apk)
-- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.0.apk)
+- [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.4.9 ｜ MD5: 0891b54587e07da380130e3938f41ac5
 Update content：
@@ -633,10 +633,10 @@ Add：Support NFT of NULS
 Fix：Fix some bugs collected from community
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.4.9.apk)
-- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.4.9.apk)
+- [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.4.3 ｜ MD5: e02a9f974e1002dd1b17d70404df4c89
 Update content：
@@ -647,10 +647,10 @@ Update content：
 Add：Support ETC and Astar Network
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.4.3.apk)
-- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.4.3.apk)
+- [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.3.9 ｜ MD5: 8f742a9d24116f76692a7ee51e68ee67
 Update content：
@@ -663,28 +663,28 @@ Add: Support an new DApp funtion of NULS Network
 Add: Added a face/fingerprint payment prompt in the password input box
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.9.apk)
-- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.9.apk)
+- [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 ####  Android  V2.3.8 ｜ MD5: d1f7d4a176802f5389ecf4ef0dd5fedf
 Update content：
 Add：Integrate Tron network and support Tron DApp
 Fix：Fix bugs collected from community
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.8.apk)
-- [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.8.apk)
+- [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.3.6 ｜ MD5: bced0e78dc9dbbb60188601f261274ec
 Update content：
 Optimized：Optimized the entry of the home page and asset details page
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.6.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.6.apk)
 
 ####  Android  V2.3.0 ｜ MD5: 8509a0574bd4ac828e8615579852c54c
 Update content：
@@ -693,8 +693,8 @@ Fix：Fix the problem of dual process
 Fix：Fix some bugs collected from the community
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.0.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.0.apk)
 
 ####  Android  V2.2.8 ｜ MD5: 9734c056ee544eeb39e2ac9853e8f36f
 Update content：
@@ -702,24 +702,24 @@ Add:Add the function of hiding networks
 Fix:Fix some bugs collected from community 
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.8.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.8.apk)
 
 ####  Android  V2.2.7 ｜ MD5: 9c36d99df7f1435c99efe591f53b6967
 Update content：
 - Fix：Fix some bugs collected from community
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.7.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.7.apk)
 
 ####  Android  V2.2.6 ｜ MD5: 1f4fe5649c6bcf6cfda3b7e97fd12a64
 Update content：
 - Fix：Fix some bugs collected from community
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.6.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.6.apk)
 
 ####  Android  V2.2.5 ｜ MD5: 1a0fd070c6c6dacf1abbd74cfeffcfc0
 Update content：
@@ -727,8 +727,8 @@ Update content：
 - Fix：Fix some bugs collected from community
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.5.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.5.apk)
 
 
 
@@ -737,8 +737,8 @@ Update content：
 - Fixed: Fix some bugs collected from community
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.4.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.4.apk)
 
 ####  Android  V2.2.2 ｜ MD5: c1663a75f9b1beec419b6ce8547ef559
 Update content：
@@ -746,29 +746,29 @@ Update content：
 - Fixed: Fix some bugs collected from community
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download apk](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.2.2.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.2.2.apk)
 
 ####  Android  V2.1.9 ｜ MD5: dfd06c5a3868caa0570f846865f54b91
 Update content：
 - Fixed：Fixed some DApp parameter transfer bugs
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download apk](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.1.9.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.1.9.apk)
 
 ####  Android  V2.1.8 ｜ MD5: 82a5dc16baf43d847c4109cdc1c6b8b6
 Update content：
 - Optimize：Improved stability to reduce unnecessary crashes
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download apk](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.1.8.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.1.8.apk)
 
 ####  Android  V2.1.7 ｜ MD5: 23219d9cde12e5bdbe593d5465d41501
 Update content：
 - Optimize：Improved stability to reduce unnecessary crashes
 
 Download:
-- [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
-- [Download apk](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.1.7.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)
+- [Android APK](https://naboxio.oss-us-west-1.aliyuncs.com/Nabox_2.1.7.apk)
