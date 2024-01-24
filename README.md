@@ -1,6 +1,40 @@
 ______________________________________________________________________________________________________________________
 ## Latest Releases
 ______________________________________________________________________________________________________________________
+####  Android  V3.1.1
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
+Download: [Android APK ｜MD5: 1e1d7ed05949632af2aa4ed6501cd7d3 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.1.apk) 
+
+Update content：
+- Add: Support the Taproot
+- Add: Support the Nested Segwit
+- Fix: Fix some bugs collected from community
+
+####  iOS  V3.1.1
+Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
+Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+
+Update content：
+- Add: Support the Taproot
+- Add: Support the Nested Segwit
+- Fix: Fix some bugs collected from community
+
+####  Extension  V1.2.0
+Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
+Update content：
+- Add: Added LTC and Doge network support
+- Add: Support Nabox ID NFT avatar display
+- Add: Click the avatar to enter the account settings page for interaction
+- Add: Adjustment of overall UI color tone and page function icons
+- Fix: Frequently called signature stability
+- Fix: Optimize startup loading
+
+
+______________________________________________________________________________________________________________________
+## Historic Version
+______________________________________________________________________________________________________________________
+
 ####  Android  V3.1.0
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: b9bd40d647b875c3c87ab888f492b32a ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.0.apk) 
@@ -27,11 +61,6 @@ Update content：
 - Add: Adjustment of overall UI color tone and page function icons
 - Fix: Frequently called signature stability
 - Fix: Optimize startup loading
-
-
-______________________________________________________________________________________________________________________
-## Historic Version
-______________________________________________________________________________________________________________________
 
 ####  Android  V3.0.9 
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
