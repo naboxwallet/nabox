@@ -1,9 +1,9 @@
 ______________________________________________________________________________________________________________________
-## Latest Releases
+## Latest Releases 
 ______________________________________________________________________________________________________________________
 ####  Android  V3.1.1
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
-Download: [Android APK ｜MD5: 1e1d7ed05949632af2aa4ed6501cd7d3 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.1.apk) 
+Download: [Android APK ｜MD5: 1e1d7ed05949632af2aa4ed6501cd7d3 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.1.apk)  
 
 Update content：
 - Add: Support the Taproot
@@ -51,16 +51,6 @@ Update content：
 - Add: Support Metaforest domain name service
 - Fix: Fix some bugs collected from community
 
-####  Extension  V1.2.0
-Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
-
-Update content：
-- Add: Added LTC and Doge network support
-- Add: Support Nabox ID NFT avatar display
-- Add: Click the avatar to enter the account settings page for interaction
-- Add: Adjustment of overall UI color tone and page function icons
-- Fix: Frequently called signature stability
-- Fix: Optimize startup loading
 
 ####  Android  V3.0.9 
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
@@ -77,7 +67,7 @@ Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 Update content：
 - Fix: Fix some bugs collected from community
 
-####  Chrome Extension V1.1.61
+####  Extension V1.1.61
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 Update content：
@@ -101,7 +91,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.7.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V3.0.5 ｜ e73bdaf3fa8be61c610311aa19451ad5
 
@@ -129,7 +119,8 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.5.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+
 
 ####  Android  V3.0.4 ｜ c76a2d7d12e8ed0afc8cef0a6bda5607
 
@@ -156,7 +147,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.4.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V3.0.3 ｜ 38ea6efd9935c5aca708eb04a1d7454e
 
@@ -183,7 +174,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.3.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V3.0.2 ｜ f7ef3a55f4a38778b61454165a79c805
 
@@ -207,7 +198,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.2.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 
 
@@ -233,7 +224,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.1.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V3.0.0 ｜ 61c34a3dd60beb8cf5148bb739b92317
 
@@ -258,7 +249,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.0.0.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.8.8 ｜ 61c34a3dd60beb8cf5148bb739b92317
 
@@ -281,7 +272,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.8.8.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.8.4 ｜ cf2dcb78f3b6315c0df18bdd752d0ef5
 
@@ -304,7 +295,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.8.4.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.8.3 ｜ c374d80f3844c14a0a5d2d43b32e89a1
 
@@ -323,7 +314,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.8.3.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.8.1 ｜ 6d24c779dd734adfa4bea4076afc1506
 
@@ -343,7 +334,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.8.1.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.8.0 ｜ 4871d5f2499a7ec5a00d07863132e876
 
@@ -358,7 +349,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.8.0.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.7.9 ｜ 004513b78f5b17e870b29bf71ff981ac
 
@@ -380,7 +371,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.9.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
 ####  Android  V2.7.8 ｜ faea8d2ca20a048cbef76263182873ed
 
@@ -400,7 +391,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.8.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.7.6 ｜ 03df1bfe027dcd26cc8fa3c296196474
 
@@ -421,7 +412,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.6.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.7.4 ｜ MD5：eec8097751c3426540f5e01e10bc6532
 
@@ -441,7 +432,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.4.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.7.3 ｜ MD5：40f4dac5489c6d9f1790524b5576ddca
 
@@ -455,7 +446,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.3.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.7.2 ｜ MD5：bcd18b35423d144bfd5f7cc97e04d9f3
 
@@ -476,7 +467,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.2.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.7.1 ｜ MD5：a70f833719ea6d7abbf1fcd6cf6f905f
 
@@ -497,7 +488,7 @@ Download:
 - [Android APK](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.1.apk) ｜ In order to ensure asset security, users must perform MD5 verification when downloading and installing APK packages
 - [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 - [TestFlight](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Plugin](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.7.0 
 
@@ -515,7 +506,7 @@ Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.7.0.apk)
 - [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.6.9 ｜ MD5: a9db800336565c69bdec45e6602d8a83
 
@@ -535,7 +526,7 @@ Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.6.9.apk)
 - [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.6.8 ｜ MD5: 08927dfdff8b478006d874927dbfc6a9
 
@@ -546,7 +537,7 @@ Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.6.8.apk)
 - [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.6.2 ｜ MD5: 0f0933eed9fbabe0d366578f718704d0
 
@@ -566,7 +557,7 @@ Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.6.2.apk)
 - [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 
 ####  Android  V2.5.5 ｜ MD5: 00a85291acdff1aabf137d2cd1958f10
@@ -583,7 +574,7 @@ Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.5.apk)
 - [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.5.4 ｜ MD5: 2361dd2a658e1855250e14ff4e98cb74
 Update content：
@@ -599,7 +590,7 @@ Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.4.apk)
 - [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.5.3 ｜ MD5: eed8ad42228102f9025219d40d9be0bc
 Update content：
@@ -615,7 +606,7 @@ Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.3.apk)
 - [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.5.0 ｜ MD5: 989c154de8cffc019c100d14af3e5396
 Update content：
@@ -629,7 +620,7 @@ Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.5.0.apk)
 - [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.4.9 ｜ MD5: 0891b54587e07da380130e3938f41ac5
 Update content：
@@ -645,7 +636,7 @@ Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.4.9.apk)
 - [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.4.3 ｜ MD5: e02a9f974e1002dd1b17d70404df4c89
 Update content：
@@ -659,7 +650,7 @@ Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.4.3.apk)
 - [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.3.9 ｜ MD5: 8f742a9d24116f76692a7ee51e68ee67
 Update content：
@@ -675,7 +666,7 @@ Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.9.apk)
 - [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 ####  Android  V2.3.8 ｜ MD5: d1f7d4a176802f5389ecf4ef0dd5fedf
 Update content：
 Add：Integrate Tron network and support Tron DApp
@@ -685,7 +676,7 @@ Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download Android apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.3.8.apk)
 - [iOS Download](https://testflight.apple.com/join/Ux18h5Nv)
-- [Chrome Plugin Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
+- [Chrome Extension Download](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 ####  Android  V2.3.6 ｜ MD5: bced0e78dc9dbbb60188601f261274ec
 Update content：
@@ -739,8 +730,7 @@ Download:
 - [Google Play Download](https://play.google.com/store/apps/details?id=com.wallet.nabox)
 - [Download apk](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_2.2.5.apk)
 
-## Version Logs
-**Notice:Be sure to verify MD5 before using the download apk method to install in order to ensure asset security**
+
 
 ####  Android  V2.2.4 ｜ MD5: 9235704c18d5f54a4cadf5b4fc262321
 Update content：
