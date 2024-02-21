@@ -22,12 +22,8 @@ Update content：
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1)
 
 Update content：
-- Add: Added LTC and Doge network support
-- Add: Support Nabox ID NFT avatar display
-- Add: Click the avatar to enter the account settings page for interaction
-- Add: Adjustment of overall UI color tone and page function icons
-- Fix: Frequently called signature stability
-- Fix: Optimize startup loading
+- Add: Compatible with UniSat Wallet
+- Fix: Fix some bugs collected from community
 ______________________________________________________________________________________________________________________
 ## Historic Version
 ______________________________________________________________________________________________________________________
