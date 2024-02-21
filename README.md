@@ -1,9 +1,9 @@
 ______________________________________________________________________________________________________________________
 ## Latest Releases 
 ______________________________________________________________________________________________________________________
-####  Android  V3.1.3
+####  Android  V3.1.2
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
-Download: [Android APK ｜MD5: 1e1d7ed05949632af2aa4ed6501cd7d3 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.3.apk)  
+Download: [Android APK ｜MD5: 1e1d7ed05949632af2aa4ed6501cd7d3 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.2.apk)  
 Update content：
 - Add: Compatible with UniSat Wallet
 - Optimization: Optimized NULS chain signature information
