@@ -1,6 +1,25 @@
 ______________________________________________________________________________________________________________________
 ## Latest Releases 
 ______________________________________________________________________________________________________________________
+####  Android  V3.1.3
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
+Download: [Android APK ｜MD5: 51700964ccedd3569d9971437c4e1334 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.3.apk)  
+Update content：
+- Optimization: Optimize WalletConnect multi-network connection
+- Optimization: Optimized Cosmos chain signature information
+- Fix: Fix some bugs collected from community
+  
+####  iOS  V3.1.3
+Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
+Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+
+Update content：
+- Optimization: Optimize WalletConnect multi-network connection
+- Optimization: Optimized Cosmos chain signature information
+- Fix: Fix some bugs collected from community
+______________________________________________________________________________________________________________________
+## Historic Version
+______________________________________________________________________________________________________________________
 ####  Android  V3.1.2
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: 51700964ccedd3569d9971437c4e1334 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.2.apk)  
@@ -24,9 +43,7 @@ Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wal
 Update content：
 - Add: Compatible with UniSat Wallet
 - Fix: Fix some bugs collected from community
-______________________________________________________________________________________________________________________
-## Historic Version
-______________________________________________________________________________________________________________________
+
 ####  Android  V3.1.1
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: 1e1d7ed05949632af2aa4ed6501cd7d3 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.1.apk)  
