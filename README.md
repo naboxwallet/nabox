@@ -9,7 +9,7 @@ Update content：
 - Optimization: Optimized Cosmos chain signature information
 - Fix: Fix some bugs collected from community
   
-####  iOS  V3.1.3
+####  iOS  V3.1.4
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
