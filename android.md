@@ -7,14 +7,6 @@ Update content：
 - Optimization: Optimized Cosmos chain signature information
 - Fix: Fix some bugs collected from community
 
-####  Android
-Version: 3.1.4  
-Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
-Download: [Android APK ｜MD5: 6f64073c135e550cc6dfc8c4bd885824 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.4.apk)  
-Add:
-
-[Historic Version](/Android.md) 
-
 ####  Android  V3.1.2
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: 51700964ccedd3569d9971437c4e1334 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.2.apk)  
