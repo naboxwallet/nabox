@@ -3,9 +3,9 @@ Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet
 Download: [Android APK ｜MD5: 6f64073c135e550cc6dfc8c4bd885824 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.5.apk)  
 
 Update content：
-Add: Support FCH mainnet
-Optimization: Optimize multi-network signature
-Fix: Fix some bugs collected from community 
+- Add: Support FCH mainnet
+- Optimization: Optimize multi-network signature
+- Fix: Fix some bugs collected from community 
 
 
 ####  Android
