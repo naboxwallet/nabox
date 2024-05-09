@@ -1,6 +1,6 @@
 ####  Version: 3.1.4  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
-Download: [Android APK ｜MD5: 6f64073c135e550cc6dfc8c4bd885824 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.5.apk)  
+Download: [Android APK ｜MD5: 6f64073c135e550cc6dfc8c4bd885824 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.4.apk)  
 
 Update content：
 - Add: Support FCH mainnet
