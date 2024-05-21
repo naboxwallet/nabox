@@ -22,12 +22,13 @@ Update content:
 [Historic Version](/ios.md) 
 ______________________________________________________________________________________________________________________
 ####  Chrome Extension
-Version:  V1.2.5  
+Version:  V1.2.6  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
 Update content：
-- Optimization: Optimize NULS/NERVE test network data storage
-- Fix:Fix some DApp connection bugs
+- Add: Support Solana network and related DApp applications
+- Optimize: Optimize account management UI interface
+- Fix: Fix some DApp connection issues
 - Fix: Fix some bugs collected from community
 
 [Historic Version](/extension.md) 
