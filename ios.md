@@ -1,3 +1,12 @@
+####  iOS  V3.1.6
+Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
+Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+
+Update content:   
+- Add: Support FCH mainnet
+- Optimization: Optimize multi-network signature
+- Fix: Fix some bugs collected from community
+
 ####  iOS  V3.1.5
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
