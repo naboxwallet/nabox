@@ -16,13 +16,19 @@ Update content：
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
 ####  iOS
-Version: V3.1.6  
+####  iOS
+Version: V3.1.7  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
 Update content:   
-- Add: Support FCH mainnet
-- Optimization: Optimize multi-network signature
+- Add: Support Solana network and related DApp applications
+- Add: Added web search function
+- Optimize: Optimize FCH network transaction confirmation method
+- Optimize: Optimize the handling fee calculation method
+- Optimize: Optimize storage methods to improve security
+- Optimize: Optimize web page loading method
+- Fix: Fix some DApp connection issues
 - Fix: Fix some bugs collected from community
 
 [Historic Version](/ios.md) 
