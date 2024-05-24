@@ -3,6 +3,7 @@
 Version: 3.1.6  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: c5a1d68e0c547fb6d4a5793a3ea8123e ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.6.apk)  
+Security Tip: Please use the MD5 verify the APK to avoid fake App. 
 
 Update content：
 - Add: Support Solana network and related DApp applications
