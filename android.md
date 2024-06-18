@@ -1,3 +1,17 @@
+####  Version: 3.1.6  
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
+Download: [Android APK ｜MD5: c5a1d68e0c547fb6d4a5793a3ea8123e ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.6.apk)  
+
+Update content：
+- Add: Support Solana network and related DApp applications
+- Add: Added web search function
+- Optimize: Optimize FCH network transaction confirmation method
+- Optimize: Optimize the handling fee calculation method
+- Optimize: Optimize storage methods to improve security
+- Fix: Fix some DApp connection issues
+- Fix: Fix some bugs collected from community
+
+
 ####  Version: 3.1.5  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: 23fcb77053f2920661b5e63a0b5a5342 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.5.apk)  
