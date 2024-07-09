@@ -1,3 +1,12 @@
+####  Version:  V1.2.8  
+Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
+
+Update content：
+- Add: Support ONEID domain name resolution
+- Optimize: Optimize SPACEID domain name resolution
+- Fix: Fix some bugs collected from community
+
+
 ####  Version:  V1.2.6  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
