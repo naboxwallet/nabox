@@ -23,11 +23,11 @@ Update content:
 [Historic Version](/ios.md) 
 ______________________________________________________________________________________________________________________
 ####  Chrome Extension
-Version:  V1.2.9  
+Version:  V1.2.10  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
 Update content：
-- Add: Support Solana NFT display and transfer
+- Add: Support TBC network
 - Fix: Fix some bugs collected from community
 
 [Historic Version](/extension.md) 
