@@ -1,3 +1,13 @@
+####  Version: 3.1.11  
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
+Download: [Android APK ｜MD5: 0a9bee62e7e2bd9cd7c84ae3be0b4750 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.11.apk)  
+Security Tip: Please use the MD5 verify the APK to avoid fake App. 
+
+Update content：
+- Add: Support Pastel network
+- Fix: Fix some bugs collected from community
+
+
 ####  Version: 3.1.10  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: 2ca5a1fec11125aa7d8fe5b665bb34a4 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.10.apk)  
