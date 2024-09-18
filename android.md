@@ -1,3 +1,14 @@
+####  Version: 3.1.12  
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
+Download: [Android APK ｜MD5: 193fb6cf66d821810fb443f69af0276a ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.12.apk)  
+Security Tip: Please use the MD5 verify the APK to avoid fake App. 
+
+Update content：
+- Add: Support BCH network
+- Add: Support TBC network observation account
+- Fix: Fix some bugs collected from community
+
+
 ####  Version: 3.1.11  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: 0a9bee62e7e2bd9cd7c84ae3be0b4750 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.11.apk)  
