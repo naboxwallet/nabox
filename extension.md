@@ -1,3 +1,11 @@
+####  Version:  V1.2.11  
+Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
+
+Update content：
+- Add: Support Pastel network
+- Fix: Fix some bugs collected from community
+
+
 ####  Version:  V1.2.10  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
