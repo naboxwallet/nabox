@@ -12,16 +12,12 @@ Update content：
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
 ####  iOS
-Version: V3.1.16  
+Version: V3.1.17  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
 Update content:   
-- Add: Add recommended asset class
-- Add: Added Portuguese and Euro, British Pound, and Brazilian currency units
-- Optimize: Optimize some usage issues of FCH network
-- Optimize: Optimize some usage issues of TBC network
-- Optimize: NULS chain gas fee adjustment
+- Add: Support BCH related DApps
 - Fix: Fix some bugs collected from community
 
 [Historic Version](/ios.md) 
