@@ -13,12 +13,12 @@ Update content：
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
 ####  iOS
-Version: V3.1.18  
+Version: V3.1.19  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
 Update content:   
-- Add: Add TRON chain energy leasing function
+- Add: Support TON chain and related applications
 - Optimize: Optimize the display of assets on the homepage
 - Fix: Fix some bugs collected from community
 

@@ -1,3 +1,13 @@
+####  Version: V3.1.18  
+Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
+Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+
+Update content:   
+- Add: Add TRON chain energy leasing function
+- Optimize: Optimize the display of assets on the homepage
+- Fix: Fix some bugs collected from community
+
+
 ####  Version: V3.1.17  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
