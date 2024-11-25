@@ -1,3 +1,11 @@
+####  Version:  V1.2.14  
+Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
+
+Update content：
+- Add: Upgrade to use Manifest V3
+- Fix: Fix some bugs collected from community
+
+
 ####  Version:  V1.2.13  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
