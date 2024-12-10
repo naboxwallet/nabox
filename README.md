@@ -18,8 +18,7 @@ Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
 Update content:   
-- Add: Support TON chain and related applications
-- Optimize: Optimize the display of assets on the homepage
+- Optimize: Optimize browser functions
 - Fix: Fix some bugs collected from community
 
 [Historic Version](/ios.md) 
