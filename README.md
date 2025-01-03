@@ -1,4 +1,4 @@
-![Naobx](https://nabox.io/img/logo-black.e910a1d2.svg) 
+![Naobx](./logo-black.svg) 
 ####  Android
 Version: 3.1.18  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
@@ -23,11 +23,11 @@ Update content:
 [Historic Version](/ios.md) 
 ______________________________________________________________________________________________________________________
 ####  Chrome Extension
-Version:  V1.2.16  
+Version:  V1.2.17  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
 Update content：
-- Add: Support TON chain and related applications
+- Add：Support TBC related NFT, FT
 - Fix: Fix some bugs collected from community
 
 [Historic Version](/extension.md) 

@@ -1,3 +1,11 @@
+####  Version:  V1.2.16  
+Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
+
+Update content：
+- Add: Support TON chain and related applications
+- Fix: Fix some bugs collected from community
+
+
 ####  Version:  V1.2.14  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
