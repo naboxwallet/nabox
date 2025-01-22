@@ -6,7 +6,8 @@ Download: [Android APK ｜MD5: 5dfb72b1ba282c00ba182246ef6e1451 ](https://nabox-
 Security Tip: Please use the MD5 verify the APK to avoid fake App. 
 
 Update content：
-- 
+- Add：Support TBC network related DApp interaction
+- Fix: Fix some bugs collected from community 
 
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
