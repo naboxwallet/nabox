@@ -1,3 +1,13 @@
+####  Version: 3.1.18  
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
+Download: [Android APK ｜MD5: 20a85440eb0071a1090ab58e87896f0a ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.18.apk)  
+Security Tip: Please use the MD5 verify the APK to avoid fake App. 
+
+Update content：
+- Add：Support TBC related NFT, FT
+- Fix: Fix some bugs collected from community
+
+
 ####  Version: 3.1.17  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: 790b23620dcd4e7a3b88a2ddc3d87fb7 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.17.apk)  
