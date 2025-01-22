@@ -12,12 +12,12 @@ Update content：
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
 ####  iOS
-Version: V3.1.22  
+Version: V3.1.23  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
 Update content:   
-- Add：Support TBC related NFT, FT
+- Add：Support TBC network related DApp interaction
 - Fix: Fix some bugs collected from community
 
 [Historic Version](/ios.md) 
