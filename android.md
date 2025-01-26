@@ -1,3 +1,13 @@
+####  Version: 3.1.19  
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
+Download: [Android APK ｜MD5: 5dfb72b1ba282c00ba182246ef6e1451 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.19.apk)  
+Security Tip: Please use the MD5 verify the APK to avoid fake App. 
+
+Update content：
+- Add：Support TBC network related DApp interaction
+- Fix: Fix some bugs collected from community 
+
+
 ####  Version: 3.1.18  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: 20a85440eb0071a1090ab58e87896f0a ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.18.apk)  

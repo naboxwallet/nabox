@@ -1,13 +1,12 @@
 ![Naobx](./logo-black.svg) 
 ####  Android
-Version: 3.1.19  
+Version: 3.1.20  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
-Download: [Android APK ｜MD5: 5dfb72b1ba282c00ba182246ef6e1451 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.19.apk)  
+Download: [Android APK ｜MD5: a375f9d0c1abd157c690f92ef14077ac ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.20.apk)  
 Security Tip: Please use the MD5 verify the APK to avoid fake App. 
 
 Update content：
-- Add：Support TBC network related DApp interaction
-- Fix: Fix some bugs collected from community 
+- Fix: Fix some bugs collected from community
 
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
