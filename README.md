@@ -29,6 +29,7 @@ Version:  V1.2.19
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
 Update content：
+- Add: Support the Aptos network and related DApps
 - Optimize: TBC network optimization and upgrade
 - Fix: Fix some bugs collected from community
 - 
