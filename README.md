@@ -25,11 +25,12 @@ Update content:
 [Historic Version](/ios.md) 
 ______________________________________________________________________________________________________________________
 ####  Chrome Extension
-Version:  V1.2.17  
+Version:  V1.2.19  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
 Update content：
-- Add：Support TBC related NFT, FT
+- Optimize: TBC network optimization and upgrade
 - Fix: Fix some bugs collected from community
+- 
 
 [Historic Version](/extension.md) 

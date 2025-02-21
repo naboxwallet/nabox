@@ -1,3 +1,11 @@
+####  Version:  V1.2.17  
+Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
+
+Update content：
+- Add：Support TBC related NFT, FT
+- Fix: Fix some bugs collected from community
+
+
 ####  Version:  V1.2.16  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
