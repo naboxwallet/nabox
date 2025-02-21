@@ -32,6 +32,6 @@ Update content：
 - Add: Support the Aptos network and related DApps
 - Optimize: TBC network optimization and upgrade
 - Fix: Fix some bugs collected from community
-- 
+
 
 [Historic Version](/extension.md) 
