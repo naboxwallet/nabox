@@ -1,13 +1,14 @@
 ![Naobx](./logo-black.svg) 
 ####  Android
-Version: 3.1.21  
+Version: 3.2.0  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
-Download: [Android APK ｜MD5: 540c71ef8a3a7db782a05af289b59b15 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.1.21.apk)  
+Download: [Android APK ｜MD5: 8b5313280422fd638ac5e2d71930832d ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.2.0.apk)  
 Security Tip: Please use the MD5 verify the APK to avoid fake App. 
 
 Update content：
-- Optimize: TBC network optimization and upgrade
-- Optimize: Signature Optimization
+- Add: Support for the Aptos network and related DApps
+- Add: Support NULS AI ID domain name transfer
+- Optimize: Market information section data optimization, page upgrade
 - Fix: Fix some bugs collected from community
 
 [Historic Version](/android.md) 
