@@ -1,15 +1,13 @@
 ![Naobx](./logo-black.svg) 
 ####  Android
-Version: 3.2.0  
+Version: 3.2.1  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
-Download: [Android APK ｜MD5: 8b5313280422fd638ac5e2d71930832d ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.2.0.apk)  
+Download: [Android APK ｜MD5: 6bbb1e01b2cfaa2cc1bdbecf8a80586d ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.2.1.apk)  
 Security Tip: Please use the MD5 verify the APK to avoid fake App. 
 
 Update content：
-- Add: Support for the Aptos network and related DApps
-- Add: Support NULS AI ID domain name transfer
-- Optimize: Market information section data optimization, page upgrade
 - Fix: Fix some bugs collected from community
+- 
 
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
