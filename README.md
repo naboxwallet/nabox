@@ -12,15 +12,13 @@ Update content：
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
 ####  iOS
-Version: V3.2.0  
+Version: V3.2.1  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
 Update content:   
-- Add: Support for the Aptos network and related DApps
-- Add: Support NULS ID domain name transfer
-- Optimize: Market information section data optimization, page upgrade
 - Fix: Fix some bugs collected from community
+- 
 
 [Historic Version](/ios.md) 
 ______________________________________________________________________________________________________________________
