@@ -1,13 +1,14 @@
 ![Naobx](./logo-black.svg) 
 ####  Android
-Version: 3.2.1  
+Version: 3.2.2  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
-Download: [Android APK ｜MD5: 6bbb1e01b2cfaa2cc1bdbecf8a80586d ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.2.1.apk)  
+Download: [Android APK ｜MD5: f608983ef5fc7dcdac15e60489d426b9 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.2.2.apk)  
 Security Tip: Please use the MD5 verify the APK to avoid fake App. 
 
 Update content：
+- Add: Market function optimization, added chart function
+- Optimize :SpaceID Upgrade and Maintenance
 - Fix: Fix some bugs collected from community
-- 
 
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
