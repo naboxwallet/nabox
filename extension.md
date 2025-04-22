@@ -1,3 +1,11 @@
+####  Version:  V1.2.23  
+Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
+
+Update content：
+- Optimize :SpaceID Upgrade and Maintenance
+- Fix: Fix some bugs collected from community
+
+
 ####  Version:  V1.2.22  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
