@@ -1,3 +1,13 @@
+####  Version: V3.2.3  
+Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
+Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+
+Update content:   
+- Add: Payment integration with SpaceID
+- Optimize :NULS upgrades NULS AI
+- Fix: Fix some bugs collected from community
+
+
 ####  Version: V3.2.2  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
