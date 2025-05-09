@@ -1,3 +1,14 @@
+####  Version: 3.2.3  
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
+Download: [Android APK ｜MD5: 332667b7c1164a0de8293fea5e9caffc ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.2.3.apk)  
+Security Tip: Please use the MD5 verify the APK to avoid fake App. 
+
+Update content：
+- Add: Payment integration with SpaceID
+- Optimize :NULS upgrades NULS AI
+- Fix: Fix some bugs collected from community
+
+
 ####  Version: 3.2.2  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: f608983ef5fc7dcdac15e60489d426b9 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.2.2.apk)  
