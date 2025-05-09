@@ -22,12 +22,10 @@ Update content:
 [Historic Version](/ios.md) 
 ______________________________________________________________________________________________________________________
 ####  Chrome Extension
-Version:  V1.2.24  
+Version:  V1.2.25  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
 Update content：
-- Add: Payment integration with SpaceID
-- Optimize :NULS upgrades NULS AI
 - Fix: Fix some bugs collected from community
 
 [Historic Version](/extension.md) 
