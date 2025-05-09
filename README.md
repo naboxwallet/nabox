@@ -17,7 +17,6 @@ Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
 Update content:   
 - Fix: Fix some bugs collected from community
-- 
 
 [Historic Version](/ios.md) 
 ______________________________________________________________________________________________________________________
