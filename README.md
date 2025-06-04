@@ -15,16 +15,12 @@ Update content：
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
 ####  iOS
-Version: V3.2.6  
+Version: V3.2.7  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
 Update content:   
-- Add: Add Meme trading functionality
-- Add: Add Nashot recommendation list
-- Add: Optimize the push notification feature and add Meme recommendation alerts
-- Optimize: Optimize the market information section
-- Fix: Fix some bugs collected from community
+- 
 
 [Historic Version](/ios.md) 
 ______________________________________________________________________________________________________________________
