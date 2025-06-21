@@ -23,11 +23,11 @@ Update content:
 [Historic Version](/ios.md) 
 ______________________________________________________________________________________________________________________
 ####  Chrome Extension
-Version:  V1.2.26  
+Version:  V1.2.30  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
 Update content：
+- Optimize: TBC network optimization and upgrade
 - Fix: Fix some bugs collected from community
-- 
 
 [Historic Version](/extension.md) 
