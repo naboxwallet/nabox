@@ -1,3 +1,12 @@
+####  Version: V3.2.9  
+Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
+Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
+
+Update content:   
+- Optimize: TBC network optimization and upgrade
+- Fix: Fix some bugs collected from community
+
+
 ####  Version: V3.2.8  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)

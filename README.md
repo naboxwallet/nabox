@@ -12,12 +12,12 @@ Update content：
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
 ####  iOS
-Version: V3.2.9  
+Version: V3.3.0  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
 Update content:   
-- Optimize: TBC network optimization and upgrade
+- Add: Add fast swap function
 - Fix: Fix some bugs collected from community
 
 [Historic Version](/ios.md) 
