@@ -1,13 +1,13 @@
 ![Naobx](./logo-black.svg) 
 ####  Android
-Version: 3.3.3  
+Version: 3.3.4  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
-Download: [Android APK ｜MD5: f8e237b36564060eb1ea863264fe08f4 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.3.3.apk)  
+Download: [Android APK ｜MD5: bcd6971fcfff763e1d18a253a9848100 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.3.4.apk)  
 Security Tip: Please use the MD5 verify the APK to avoid fake App. 
 
 Update content：
-- Add: Support for the SUI network and related applications
-- Optimize: Optimize TRON chain energy transactions
+- Add: Add Signal Section
+- Optimize: Optimized the Browser Section
 - Fix: Fix some bugs collected from community
 
 [Historic Version](/android.md) 
