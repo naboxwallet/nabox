@@ -1,14 +1,13 @@
 ![Naobx](./logo-black.svg) 
 ####  Android
-Version: 3.3.4  
+Version: 3.3.5  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
-Download: [Android APK ｜MD5: bcd6971fcfff763e1d18a253a9848100 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.3.4.apk)  
+Download: [Android APK ｜MD5: 60e6a2a3c016ebd1e7658bff90564239 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.3.5.apk)  
 Security Tip: Please use the MD5 verify the APK to avoid fake App. 
 
 Update content：
-- Add: Add Signal Section
-- Optimize: Optimized the Browser Section
 - Fix: Fix some bugs collected from community
+- 
 
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
