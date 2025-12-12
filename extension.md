@@ -1,3 +1,13 @@
+####  Version:  V1.2.37  
+Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
+
+Update content：
+- Optimize: TRON chain account generation optimization
+- Optimize: TRON chain DApp usage optimization
+- Optimize: TBC network optimization and upgrade
+- Fix: Fix some bugs collected from community
+
+
 ####  Version:  V1.2.30  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
