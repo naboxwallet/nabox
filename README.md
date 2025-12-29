@@ -14,12 +14,15 @@ Update content：
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
 ####  iOS
-Version: V3.3.5  
+Version: V3.3.6  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
 Update content:   
-- 
+- Add: Added support for Turing Wallet QR code recognition
+- Add: Supports non-zero asset balance queries on TRON and Solana networks
+- Optimize: Optimized the display of selected text and copy
+- Fix: Fix some bugs collected from community
 
 [Historic Version](/ios.md) 
 ______________________________________________________________________________________________________________________
