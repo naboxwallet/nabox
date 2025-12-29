@@ -1,3 +1,16 @@
+####  Version: 3.3.6  
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
+Download: [Android APK ｜MD5: d13877221c497c485a2cdbc5910d43b7 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.3.6.apk)  
+Security Tip: Please use the MD5 verify the APK to avoid fake App. 
+
+Update content：
+- Optimize: Optimize the display of popular lists in the 【Discover】 section
+- Optimize: TRON chain account generation optimization
+- Optimize: TRON chain DApp usage optimization
+- Optimize: TBC network optimization and upgrade
+- Fix: Fix some bugs collected from community
+
+
 ####  Version: 3.3.5  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: 60e6a2a3c016ebd1e7658bff90564239 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.3.5.apk)  
