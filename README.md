@@ -23,12 +23,11 @@ Update content:
 [Historic Version](/ios.md) 
 ______________________________________________________________________________________________________________________
 ####  Chrome Extension
-Version:  V1.2.38  
+Version:  V1.2.41  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
 Update content：
-- Add: Compatible with scanning and recognizing Turing Wallet address QR codes
-- Optimize: Optimize transaction records for EVM-based networks
+- Add: Added a memo feature for transfers on EVM-compatible networks
 - Fix: Fix some bugs collected from community
 
 [Historic Version](/extension.md) 

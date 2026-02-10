@@ -1,3 +1,12 @@
+####  Version:  V1.2.38  
+Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
+
+Update content：
+- Add: Compatible with scanning and recognizing Turing Wallet address QR codes
+- Optimize: Optimize transaction records for EVM-based networks
+- Fix: Fix some bugs collected from community
+
+
 ####  Version:  V1.2.37  
 Download: [Chrome Extension](https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=zh-CN&authuser=1) 
 
