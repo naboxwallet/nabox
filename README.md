@@ -1,12 +1,11 @@
 ![Naobx](./logo-black.svg) 
 ####  Android
-Version: 3.3.9  
+Version: 3.3.10  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
-Download: [Android APK ｜MD5: 2a7da0da6b5c230463b87d541960e4d0 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.3.9.apk)  
+Download: [Android APK ｜MD5: 3d42f4aabc182f04fa5de86632636ddf ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.3.10.apk)  
 Security Tip: Please use the MD5 verify the APK to avoid fake App. 
 
 Update content：
-- Add: Added a memo feature for transfers on EVM-compatible networks
 - Fix: Fix some bugs collected from community
 
 [Historic Version](/android.md) 
