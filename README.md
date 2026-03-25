@@ -11,13 +11,12 @@ Update content：
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
 ####  iOS
-Version: V3.3.8  
+Version: V3.3.10  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
 Update content:   
-- Add: Added a memo feature for transfers on EVM-compatible networks
-- Fix: Fix some bugs collected from community
+- 
 
 [Historic Version](/ios.md) 
 ______________________________________________________________________________________________________________________
