@@ -1,9 +1,9 @@
-####  Version: V3.3.10  
+####  Version: V3.3.9 
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
 Update content:   
-- 
+- Fix: Fix some bugs collected from community
 
 
 ####  Version: V3.3.8  
