@@ -11,7 +11,7 @@ Update content：
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
 ####  iOS
-Version: V3.3.11  
+Version: V3.3.12  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
