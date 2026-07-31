@@ -1,3 +1,12 @@
+####  Version: 3.3.14  
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
+Download: [Android APK ｜MD5: f6f5ac68552404111741da933c598fcc ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.3.14.apk)  
+Security Tip: Please use the MD5 verify the APK to avoid fake App. 
+
+Update content：
+- Fix: Fix some bugs collected from community
+
+
 ####  Version: 3.3.13  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
 Download: [Android APK ｜MD5: a0aaa614946af4e40ec19129f6cbd6f9 ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.3.13.apk)  

@@ -2,7 +2,7 @@
 ####  Android
 Version: 3.3.14  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
-Download: [Android APK ｜MD5: f6f5ac68552404111741da933c598fcc ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.3.14.apk)  
+Download: [Android APK ｜MD5: 7ca61f6750cc5ea84b700d1113c7335e ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.3.14.apk)  
 Security Tip: Please use the MD5 verify the APK to avoid fake App. 
 
 Update content：
