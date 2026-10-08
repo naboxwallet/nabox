@@ -1,12 +1,15 @@
 ![Naobx](./logo-black.svg) 
 ####  Android
-Version: 3.3.14  
+Version: 4.0.0  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.wallet.nabox)  
-Download: [Android APK ｜MD5: 7ca61f6750cc5ea84b700d1113c7335e ](https://nabox-apk.oss-cn-hongkong.aliyuncs.com/Nabox_3.3.14.apk)  
-Security Tip: Please use the MD5 verify the APK to avoid fake App. 
+Download: [Android APK ｜SHA-256: 9d3653632d09439ae39c663816d78c9738d31956064dea461f62c78b1d92f11d ](https://files.nabox.io/android/Nabox_4.0.0-6ea8831.apk)  
+Security Tip: Please use the SHA-256 verify the APK to avoid fake App. 
 
 Update content：
-- Fix: Fix some bugs collected from community
+- Add: Encrypted chat via the Nostr protocol
+- Add: Dark mode theme
+- Optimize: Brand-new architecture and user experience
+- Fix: Various bugs reported by the community
 
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
