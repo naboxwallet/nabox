@@ -14,11 +14,15 @@ Update content：
 [Historic Version](/android.md) 
 ______________________________________________________________________________________________________________________
 ####  iOS
-Version: V3.3.12  
+Version: V4.0.0  
 Download: [App Store](https://apps.apple.com/us/app/nabox-wallet/id6443821021)  
 Download: [TestFlight](https://testflight.apple.com/join/P3ASFT8F)
 
 Update content:   
+- Add: Encrypted chat via the Nostr protocol
+- Add: Dark mode theme
+- Optimize: Brand-new architecture and user experience
+- Fix: Various bugs reported by the community
 
 [Historic Version](/ios.md) 
 ______________________________________________________________________________________________________________________
